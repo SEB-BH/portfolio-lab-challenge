@@ -1,11 +1,11 @@
 {
   "org": {
     "friendlyName": "Modular Curriculum All Courses",
-    "name": "modular-curriculum-all-courses"
+    "name": "SEB-BH"
   },
   "repo": {
     "friendlyName": "Intro to HTML & CSS Lab",
-    "name": "intro-to-html-and-css-lab",
+    "name": "portfolio-lab-challenge",
     "type": "Lab"
   },
   "courses": [
