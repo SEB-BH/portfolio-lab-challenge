@@ -17,6 +17,7 @@ By the end of this lab, you will have a simple portfolio page that you can conti
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
+- [Helpful HTML & CSS Tips](./level-up/README.md)
 
 ### Time to complete
 
