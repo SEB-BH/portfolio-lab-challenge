@@ -97,14 +97,4 @@ You can also explore more palettes at [Coolors](https://coolors.co).
 
 > 💡 Your Turn: Choose a color palette for your portfolio. Use the colors for your background, cards, headings, links, and text. Make sure everything is easy to read!
 
-## 🎓 You Do
-
-Use what you've learned to complete your portfolio:
-
-- Display your profile photo from the `assets` folder.
-- Make your navigation links jump to the correct sections.
-- Add a Back to Top link.
-- Customize your links and lists using CSS.
-- Choose a color palette and apply it to your website.
-
 Remember, these examples show you how to do something. It's up to you to decide where to use each technique in your portfolio!
