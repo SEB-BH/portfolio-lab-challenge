@@ -93,7 +93,7 @@ Not sure which colors to use for your portfolio? Here are four color palettes yo
 
 <img width="777" height="644" alt="Screenshot 2026-10-21 at 4 58 42 PM" src="https://github.com/user-attachments/assets/a6d5a593-0a4c-4d87-be63-0e3f5dd39517" />
 
-You can also explore more palettes at [Coolors](https://coolors.co/?utm_source=chatgpt.com).
+You can also explore more palettes at [Coolors](https://coolors.co).
 
 > 💡 Your Turn: Choose a color palette for your portfolio. Use the colors for your background, cards, headings, links, and text. Make sure everything is easy to read!
 
